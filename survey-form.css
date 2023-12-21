@@ -61,7 +61,7 @@ body {
     color: white; /* Set NET to white */
 }
 
-.form-container label {
+.form-container label { 
     display: block;
     margin-bottom: 10px; 
 }
